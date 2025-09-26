@@ -25,5 +25,5 @@ The project can be found in the following link (https://github.com/adribarra/Pyt
 ## Used libraries
 
 * Pandas: Data manipulation
-* Matplotlib and Seabron: Data Visualization
+* Matplotlib and Seaborn: Data Visualization
   
