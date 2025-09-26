@@ -1,4 +1,4 @@
-# Python-for-beginners
+# Python for Beginners
 🤖 Final Project: MIOTI Python for Beginners
 Finished in September 2025
 
